@@ -1,5 +1,6 @@
 
-Hi, I'm Vaibhavi Bachu 
+# Hi, I'm Vaibhavi Gupta 👋 
+
 Data Analyst | Curious about data & patterns  
 
 I genuinely enjoy working with data — cleaning messy datasets, asking why numbers behave the way they do, and turning them into insights that make sense.  
