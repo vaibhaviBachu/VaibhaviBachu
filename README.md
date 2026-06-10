@@ -1,21 +1,22 @@
+AI/ML Engineer | Building Intelligent Systems with AI, ML & Automation
 
-# Hi, I'm Vaibhavi Gupta 👋 
+Passionate about transforming ideas into intelligent, real-world applications through Artificial Intelligence, Machine Learning, Generative AI, and Data Engineering.
 
-Data Analyst |  Machine Learning | Curious about data & patterns  
+I enjoy designing and building end-to-end AI solutions—from data pipelines and model development to deployment and automation. My focus is on creating systems that solve practical problems, improve decision-making, and deliver measurable impact.
 
-I genuinely enjoy working with data — cleaning messy datasets, asking why numbers behave the way they do, and turning them into insights that make sense.  
-Most of my work is in **data analytics**, and I also enjoy using **machine learning to make predictions and understand trends**.
+Current Areas of Interest:
+• Machine Learning & Deep Learning
+• Generative AI & LLM Applications
+• AI Agents & Workflow Automation
+• Data Engineering & MLOps
+• Predictive Analytics & Time-Series Forecasting
+• Industrial AI & IoT Analytics
 
-What I enjoy:
-- Finding patterns in data people usually miss  
-- Building dashboards that clearly explain *what’s happening and why*  
-- Using ML models for prediction and understanding, not just accuracy  
+Tech Stack:
+Python | SQL | FastAPI | Docker | PostgreSQL | Machine Learning | Deep Learning | Generative AI | Tableau | Power BI
 
-Tools:
-SQL, Python, Excel | Tableau, Power BI | Statistics, EDA, Machine Learning  
+Currently building AI-powered platforms for data quality, predictive analytics, intelligent automation, and industrial monitoring while continuously exploring new advancements in AI.
 
-Currently focused on improving 'analytics, data storytelling, and practical ML', one project at a time.
+Always open to collaborating on innovative AI projects, research opportunities, and impactful engineering challenges.
 
-
-Always open to learning, feedback, and meaningful data projects.
 
